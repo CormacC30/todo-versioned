@@ -14,4 +14,3 @@ public class Todo extends Model
         this.title = title;
     }
 }
-
